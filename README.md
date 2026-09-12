@@ -60,4 +60,8 @@
 
 ## Cкетч
 
-В работе
+Используемые библиотеки:
+- EspSoftwareSerial
+- WiFiManager
+- ArduinoJson
+
